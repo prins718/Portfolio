@@ -35,16 +35,6 @@ export const resumeData = {
   ],
   projects: [
     {
-      name: "Simple Cube Game",
-      description: "Interactive cube-based game.",
-      bullets: [
-        "Developed an interactive cube-based game using React.js and JavaScript.",
-        "Implemented game logic including cube movement, scoring system, and restart functionality.",
-        "Focused on smooth UI interactions and component-based architecture."
-      ],
-      link: "#"
-    },
-    {
       name: "E-Commerce Website",
       description: "Responsive e-commerce web application.",
       bullets: [

@@ -35,7 +35,7 @@ const Navbar = () => {
                 {link.name}
               </a>
             ))}
-            <a href="/Resume.pdf" download="Prins_Desai_Resume.pdf" className="px-4 py-2 bg-blue-600/20 text-blue-400 border border-blue-500/50 hover:bg-blue-600 hover:text-white rounded-full transition-all duration-300 font-medium flex items-center gap-2">
+            <a href="/Prins_N_Desai_Resume.pdf" download="Prins_N_Desai_Resume.pdf" className="px-4 py-2 bg-blue-600/20 text-blue-400 border border-blue-500/50 hover:bg-blue-600 hover:text-white rounded-full transition-all duration-300 font-medium flex items-center gap-2">
               <Download size={16} /> Resume
             </a>
           </div>
@@ -57,7 +57,7 @@ const Navbar = () => {
               {link.name}
             </a>
           ))}
-          <a href="/Resume.pdf" download="Prins_Desai_Resume.pdf" className="text-blue-400 font-medium w-full text-center py-2 flex items-center justify-center gap-2">
+          <a href="/Prins_N_Desai_Resume.pdf" download="Prins_N_Desai_Resume.pdf" className="text-blue-400 font-medium w-full text-center py-2 flex items-center justify-center gap-2">
             <Download size={18} /> Download Resume
           </a>
         </div>

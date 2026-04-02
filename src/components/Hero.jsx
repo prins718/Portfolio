@@ -36,7 +36,7 @@ const Hero = () => {
           <a href={personalInfo.linkedin} target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-800 hover:bg-gray-700 rounded-full transition-transform hover:-translate-y-1 border border-gray-700 hover:border-blue-500 text-white shadow-lg">
             <Linkedin size={24} />
           </a>
-          <a href="/Resume.pdf" download="Prins_Desai_Resume.pdf" className="ml-2 px-6 py-3 bg-gray-800 hover:bg-gray-700 rounded-full font-semibold transition-transform hover:-translate-y-1 border border-gray-700 hover:border-blue-500 shadow-lg flex items-center gap-2 text-white">
+          <a href="/Prins_N_Desai_Resume.pdf" download="Prins_N_Desai_Resume.pdf" className="ml-2 px-6 py-3 bg-gray-800 hover:bg-gray-700 rounded-full font-semibold transition-transform hover:-translate-y-1 border border-gray-700 hover:border-blue-500 shadow-lg flex items-center gap-2 text-white">
             <Download size={20} />
             <span className="hidden sm:inline">Download</span> Resume
           </a>
