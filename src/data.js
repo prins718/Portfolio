@@ -13,7 +13,7 @@ export const resumeData = {
   skills: {
     frontend: ["React", "HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind CSS"],
     backend: ["MongoDB", "Node.js", "PHP-MyAdmin"],
-    programming: ["JavaScript", "OOPs", "Java (Familiar)", "PHP", "Python"],
+    programming: ["JavaScript", "OOPs", "PHP", "Python"],
     databases: ["SQL", "MongoDB"],
     other: ["Git", "GitHub", "Computer Networks"],
     languages: ["English", "Hindi", "Gujarati"]
