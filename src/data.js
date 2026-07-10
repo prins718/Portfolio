@@ -7,8 +7,8 @@ export const resumeData = {
     linkedin: "https://linkedin.com",
     github: "https://github.com",
     portfolio: "https://portfolio.com",
-    role: "Frontend Developer",
-    summary: "Frontend Developer with 8+ months of hands-on experience building responsive and user-friendly web applications across multiple domains. Strong expertise in React.js, JavaScript (ES6+), HTML, CSS, and Tailwind CSS, with a solid understanding of component-based architecture and state management. Passionate about writing clean, reusable code, collaborating with cross-functional teams, and continuously learning modern frontend technologies to deliver high quality user experiences.",
+    role: "Web Developer",
+    summary: "Full-Stack Developer with 8+ months of hands-on experience building responsive and user-friendly web applications across multiple domains. Strong expertise in React.js, JavaScript (ES6+), HTML, CSS, and Tailwind CSS, with a solid understanding of component-based architecture and state management. Passionate about writing clean, reusable code, collaborating with cross-functional teams, and continuously learning modern frontend technologies to deliver high quality user experiences.",
   },
   skills: {
     frontend: ["React", "HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind CSS"],
@@ -23,7 +23,7 @@ export const resumeData = {
       role: "Frontend Developer Intern – React-js Technologies",
       company: "Satvarth Solutions",
       location: "Ahemdabad, India",
-      date: "July 2025 – Present",
+      date: "July 2025 – March 2026",
       bullets: [
         "Developed interactive 3D–2D web interfaces using React.js and JavaScript.",
         "Designed responsive layouts with Tailwind CSS.",
